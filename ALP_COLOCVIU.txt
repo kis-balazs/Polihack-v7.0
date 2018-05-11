@@ -1,0 +1,17 @@
+Grupa, NumePrenume
+sub NumePrenume
+L1 - Problema1.asm
+
+Nume sugestive pentru proiectele cu macro-uri
+Fara executabile, DOAR .ASM
+
+De la Lab-ul 4 incepand
+
+Citire + afisare (0.5 + 0.5p)
+Macro-uri (1p)
+Segmente de cod diferite in fisiere diferite (1p, daca cumva nu se cere)
+Utilizarea bibliotecarului/co-procesorului matematic (1p)
+Crearea de librarie proprie de macro-uri (1p)
+
+Google PERMIS
+Gmail NU
